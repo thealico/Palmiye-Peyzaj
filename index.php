@@ -3,6 +3,6 @@
 		<title>Hey</title>
 	</head>
 	<body>
-		<h1>Merhaba Dünya</h1>
+		<h1><?php echo 'Merhaba Dünya' ?></h1>
 	</body>
 </html>
